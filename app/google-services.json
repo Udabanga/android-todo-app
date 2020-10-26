@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912470483268",
+    "firebase_url": "https://todo-manager-c754d.firebaseio.com",
+    "project_id": "todo-manager-c754d",
+    "storage_bucket": "todo-manager-c754d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912470483268:android:a30b7e22f380a14435b711",
+        "android_client_info": {
+          "package_name": "com.example.todomanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912470483268-7f86n4j5s59g3g3jhqed3o9m0je3l9qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todomanager",
+            "certificate_hash": "dd430272c94f5a1ff8f240df01b210ff2f6955d5"
+          }
+        },
+        {
+          "client_id": "912470483268-s1nbgi2mleh5kpe7jmcfaniuspjka8pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWMUcF9aUyhPhwfMdfBl43itsqmGNYdak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912470483268-s1nbgi2mleh5kpe7jmcfaniuspjka8pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
